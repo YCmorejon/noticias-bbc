@@ -28,7 +28,7 @@ noticias-bbc/
 └── .gitignore
 
 ````
-
+```markdown
 ---
 
 ## ⚙️ Instalación
