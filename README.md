@@ -1,4 +1,3 @@
-```markdown
 # 📰 Noticias BBC - Web Scraper con Playwright
 
 Este proyecto es un **web scraper en Python** que extrae titulares, descripciones y enlaces de artículos de la sección **Culture** de BBC.  
