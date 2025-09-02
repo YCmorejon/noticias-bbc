@@ -84,5 +84,3 @@ Esto generará un archivo CSV en la carpeta `data/` con el siguiente formato:
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
-
-```
