@@ -86,7 +86,3 @@ Esto generará un archivo CSV en la carpeta `data/` con el siguiente formato:
 Este proyecto se distribuye bajo la licencia MIT.
 
 ```
-
----
-o por repo y te vaya preparando este tipo de estructura y README para cada uno?
-```
